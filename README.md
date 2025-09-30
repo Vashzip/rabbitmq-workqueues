@@ -4,8 +4,8 @@
 
 Este é um tutorial de RabbitMQ implementando o padrão "Work Queues" (também conhecido como Task Queues) - um sistema de distribuição de tarefas onde um produtor envia tarefas para uma fila e múltiplos workers (trabalhadores) competem para processar essas tarefas de forma balanceada.
 
-# Seguindo o padrão de tutorial do próprio RabbitMQ Tutorial 2
-# Tutorial realizado em Fedora Linux
+- ### Seguindo o padrão de tutorial do próprio RabbitMQ Tutorial 2
+- ### Tutorial realizado em Fedora Linux
 
 ## 🛠️ Ferramentas Utilizadas
 
